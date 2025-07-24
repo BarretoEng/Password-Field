@@ -10,6 +10,6 @@ Uma interface de login moderna, responsiva e acessível construída com **HTML**
 - Alinhamento à esquerda, limpo e responsivo
 - Link de recuperação de senha (Reset password)
 
-## 📸 Interface
+## 📸 Preview
 
-<img src="https://via.placeholder.com/400x300?text=Preview+Login" alt="Preview da tela de login" />
+<img src="preview" alt="Preview da tela de login" />
