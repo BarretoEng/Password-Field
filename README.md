@@ -13,3 +13,7 @@ Uma interface de login moderna, responsiva e acessível construída com **HTML**
 ## 📸 Preview
 
 <img src="preview" alt="Preview da tela de login" />
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
